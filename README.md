@@ -1,6 +1,6 @@
 # Predicting-the-default-of-credit-card-clients
 The code is referenced on the link: https://www.kaggle.com/code/ansonchan630/predicting-default-of-credit-card-clients-using-ml    
-My code has omitted the deep learning code and edited some places to suit my data set  
+My code has omitted the deep learning code and edited some places to suit my data set : https://www.kaggle.com/code/ainodehna/predicting-default-of-credit-card-clients-using-ml
    
 The article uses data on kaggle and removes 100 points from it.   
 Dataset Introduction   
